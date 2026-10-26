@@ -67,6 +67,13 @@ h3{
     color: rgb(255, 183, 3);
 }
 
+#turn {
+    margin-top: 10px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: rgb(2, 48, 71);
+}
+
 .msg-container {
     background-color: rgba(142, 202, 230, 0.5);
     height: 100vmin;
